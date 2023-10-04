@@ -18,10 +18,15 @@ This project implements user authentication features using Flask and SQLAlchemy.
 
 
 1.User Registration: Users can sign up securely with their email and create a new account.
+
 2.Login: Secure login with email and password.
+
 3.Dashboard: A personalized dashboard for each user upon successful login.
 
-Code:
+##Code:
+
 instance folder by bcrypt
+
 templates folder has all the .html files (front end)
+
 app.py contains backend framework, routing
